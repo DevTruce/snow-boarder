@@ -57,8 +57,8 @@
 [![Product Name Screen Shot][product-screenshot2]](product-link)
 This is my second creation with unity and c#, I had a great time building it and expanding on my knowledge with c# and unity. This is a simple snow boarding game where the goal is to get to the finish line while doing as many tricks as possible! Do be careful tho because if you land on your head its game over! I really enjoyed coding the mechanics as well as messing around with some of the effects for the player, There are some nice sound effects and a rather enjoyable background song as well. The only player controls are as follows:
 
-Left Arrow: Rotate player to the left
-Right Arrow: Rotate player to the right
+Left Arrow: Rotate player to the left<br>
+Right Arrow: Rotate player to the right<br>
 Up Arrow: Get a speed boost while on the floor!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
